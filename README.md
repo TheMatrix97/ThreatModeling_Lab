@@ -90,4 +90,6 @@ A continuación se muestra una propuesta. Por una parte el cliente deberá acced
 
 ![alt text](./figures/optional_proposal.png)
 
+Revisa la rama `solution` para obtener el fichero .tm7 del modelo propuesto como solución.
+
 </details>
